@@ -1,0 +1,20 @@
+Q1	various Indian Epics
+Q2	Different Machine Learning algorithms
+Q3	Lord Krishna in Mahabharata 
+Q4	What is High preformance computing and method to real time computing
+Q5	Sensors and actuator in embedded systems  
+Q6	Sherlockholmes and watsons friendship stories
+Q7	Mention about different literature,novels
+Q8	What are the different fields in Computer science 
+Q9	Mention varietes of animals 
+Q10	Mention different genres of books  
+Q11	Different branches of in geometric mathematic   
+Q12	Types of clustering 
+Q13	Significance of Bitcoin and Blockchain 
+Q14	Mention about different actors and movie directors
+Q15	Convolutional neural network and Recurrent neural network
+Q16	treatment of diabetes in children
+Q17	Mention about parasitic diseases
+Q18	What is liver pathology
+Q19	Details about fields in Artificial Inteligence and Data science
+Q20	renal hypertrophy

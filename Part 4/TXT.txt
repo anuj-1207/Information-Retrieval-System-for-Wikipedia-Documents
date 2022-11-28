@@ -1,0 +1,20 @@
+Q1	what is spaghetti code in computer programming 
+Q2	what is the purpose of data flow diagram in software engineering
+Q3	addison's disease symptoms in humans 
+Q4	naive set theory vs axiomatic
+Q5	british literature syllabus 12th grade  
+Q6	lattice in set theory explanation 
+Q7	apple versus samsung
+Q8	alcohol intoxication management protocol 
+Q9	lower back and leg pain treatment 
+Q10	what does nystagmus mean in medical terms 
+Q11	what is botulinum toxin treatment 
+Q12	visual snow neurological disorder 
+Q13	what is a colonoscopy bag used for 
+Q14	how old are larry page and sergey brin
+Q15	When did Mark Zuckerberg start Facebook
+Q16	What is relational algebra and relational calculus in DBMS
+Q17	Internet Engineering task force
+Q18	Where is counting sort useful
+Q19	OS problems related to reader and writer
+Q20	What is python programming
