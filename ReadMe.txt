@@ -30,7 +30,7 @@ Step 4: The output of all the three IR Systems should be present in the "Part 4"
 
 NOTE: 
       1. The entire preprocessing is already performed on the ~8351 text files and the output files
-      are saved in the folder "Data files required" as a pickle format which you can download from [here](https://iitk-my.sharepoint.com/:f:/g/personal/anujs21_iitk_ac_in/EpjRpchBycRKrJ9V_eMstz4B_7H61mJLLdaW9VWt2Tsnhg?e=k1JCBh) and upload in the folder "Data files required". The corresponding code is contained in "Part 1 and 2" folder. If you wish 
+      are saved in the folder "Data files required" as a pickle format which you can download from https://iitk-my.sharepoint.com/:f:/g/personal/anujs21_iitk_ac_in/EpjRpchBycRKrJ9V_eMstz4B_7H61mJLLdaW9VWt2Tsnhg?e=k1JCBh and upload in the folder "Data files required". The corresponding code is contained in "Part 1 and 2" folder. If you wish 
       to recreate the processed documents, please go to code "Q1 and Q2" and comment break statements with written "comment this" on them. "HOWEVER, THIS WILL TAKE
       AROUND ~60-80 MINUTES."
 
