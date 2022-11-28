@@ -30,9 +30,9 @@ Step 4: The output of all the three IR Systems should be present in the "Part 4"
 
 NOTE: 
       1. The entire preprocessing is already performed on the ~8351 text files and the output files
-      are saved in the folder "Data files required" as a pickle format. The corresponding code is contained in "Part 1 and 2" folder.   If you wish 
-      to recreate the processed documents, please go to code "Q1 and Q2" and comment break statements with written "comment this" on them. HOWEVER, THIS WILL TAKE
-      AROUND ~60-80 MINUTES.
+      are saved in the folder "Data files required" as a pickle format which you can download from here "" and upload in the folder "Data files required". The corresponding code is contained in "Part 1 and 2" folder.   If you wish 
+      to recreate the processed documents, please go to code "Q1 and Q2" and comment break statements with written "comment this" on them. "HOWEVER, THIS WILL TAKE
+      AROUND ~60-80 MINUTES."
 
       2.Upload corpus folder "englist corpora" in folder "Data files required" before recreating files from step 1. The corpus is not included due to its huge size. If you want to do the preprocessing as mentioned above,
       please download the corpus from "https://www.cse.iitk.ac.in/users/arnabb/ir/english/" and extract it. At the end there should be a folder named "english-corpora" containing all the raw text files.
